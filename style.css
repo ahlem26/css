@@ -1,0 +1,22 @@
+/* Sélecteur de type */
+h1 {
+    color: red;
+    font-family: roboto;
+    text-align: center;
+}
+
+/* Sélecteurs de classe */
+.title {
+    color: blue
+}
+
+/* Sélecteur d'ID */
+#blue-bordered {
+    border: 5px dashed blue;
+}
+
+/* Sélecteurs multiples */
+h1,
+p {
+    border: 1px solid black;
+}
